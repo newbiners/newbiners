@@ -7,7 +7,6 @@ Front-end developer
 I am a junior programmer who is proficient in html, css, tailwind css, javascript, reactjs and vuejs.
 
 * 🌍  I'm based in Jember, East Java, Indonesia
-* 🖥️  See my portfolio at [My Web Profile](http://gufanto.site)
 * ✉️  You can contact me at [gufronnewbiners@gmail.com](mailto:gufronnewbiners@gmail.com)
 
 ### Skills
